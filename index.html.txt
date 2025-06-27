@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ANDA Agency - AI Automation</title>
+<style>
+  body {
+    background: black; color: #0ff; font-family: Arial, sans-serif; margin: 40px; 
+    text-align: center; 
+  }
+  h1 { font-weight: bold; font-size: 2.5rem; }
+  p { font-size: 1.2rem; max-width: 600px; margin: auto; }
+  a { color: #0ff; text-decoration: none; font-weight: bold; }
+  footer { margin-top: 40px; font-size: 0.9rem; color: #555; }
+</style>
+</head>
+<body>
+<h1>ANDA Agency</h1>
+<p>Helping businesses get new clients with AI, sell more, and automate processes.</p>
+<p>Contact us: <a href="mailto:anda.agency.ai@gmail.com">anda.agency.ai@gmail.com</a> | +48 788 155 698</p>
+<footer>© 2025 ANDA Agency</footer>
+</body>
+</html>
